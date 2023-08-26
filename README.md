@@ -8,12 +8,12 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Beginner Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+I am a Beginner .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
 - 🔭 I'm studying in college right now.
-- 🌱 Interested in Backend Development.
-- ⚡ In my free time I learn JavaScript and watch a videos about IT.
-- 📫 How to reach me: DM me on GitHub :-)
+- 🌱 Interested in Frontend Development.
+- ⚡ In my free time I learn C# and watch a videos about IT.
+- 📫 How to reach me: Contact me via this [email](mailto:nikitakuznetsovgg@gmail.com) :-)
 
 ---
 
